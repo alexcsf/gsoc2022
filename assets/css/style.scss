@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header {
+  display: none;
+}
+
+.wrapper {
+  max-width: 60%;
+}
+
+section {
+  margin: 20px auto;
+  max-width: 100%;
+}
+
+.return {
+  color: lightcoral;
+}
