@@ -6,3 +6,4 @@ title: "GSoC 2022 at Jitsi"
 description: "My experience as a Google Summer of Code 2022 Contributor at Jitsi."
 repository: alexcsf/gsoc2022
 show_downloads: false
+baseurl: /gsoc2022
